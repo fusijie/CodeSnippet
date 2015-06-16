@@ -1,0 +1,3 @@
+[submodule "Cocos2d-x/SpriteWithHue"]
+	path = Cocos2d-x/SpriteWithHue
+	url = git@github.com:fusijie/SpriteWithHue.git
