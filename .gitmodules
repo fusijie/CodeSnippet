@@ -1,3 +1,6 @@
 [submodule "Cocos2d-x/SpriteWithHue"]
 	path = Cocos2d-x/SpriteWithHue
 	url = https://github.com/fusijie/SpriteWithHue.git
+[submodule "Cocos2d-x/Gif-for-Cocos2dx"]
+	path = Cocos2d-x/Gif-for-Cocos2dx
+	url = https://github.com/fusijie/gif-for-cocos2dx
