@@ -7,3 +7,6 @@
 [submodule "Cocos2d-x/WebSprite"]
 	path = Cocos2d-x/WebSprite
 	url = https://github.com/fusijie/WebSprite
+[submodule "Cocos2d-x/Wechat"]
+	path = Cocos2d-x/Wechat
+	url = https://github.com/fusijie/Cocos2dx-Wechat
