@@ -4,3 +4,6 @@
 [submodule "Cocos2d-x/Gif-for-Cocos2dx"]
 	path = Cocos2d-x/Gif-for-Cocos2dx
 	url = https://github.com/fusijie/gif-for-cocos2dx
+[submodule "Cocos2d-x/WebSprite"]
+	path = Cocos2d-x/WebSprite
+	url = https://github.com/fusijie/WebSprite
