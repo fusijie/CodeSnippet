@@ -10,3 +10,6 @@
 [submodule "Cocos2d-x/Wechat"]
 	path = Cocos2d-x/Wechat
 	url = https://github.com/fusijie/Cocos2dx-Wechat
+[submodule "Cocos2d-x/Transparent"]
+	path = Cocos2d-x/Transparent
+	url = https://github.com/fusijie/Cocos2d-x-Transparent
